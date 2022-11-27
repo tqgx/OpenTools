@@ -45,6 +45,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-# Disclaimer
+# <sub> Disclaimer </sub>
 The developer of this application does not have any affiliation with the content providers available.
 
