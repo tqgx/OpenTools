@@ -48,3 +48,6 @@ SOFTWARE.
 # Disclaimer 
 The developer of this application does not have any affiliation with the content providers available.
 
+# Conflict of Interest Statement
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
