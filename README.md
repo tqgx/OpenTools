@@ -1,4 +1,4 @@
-# Reserve all software and code on this page for development, learning, academic use, reverse programming.  ———→→→ —Password：OpenTools — ←←←——
+# Reserve all software and code on this page for development, learning, academic use, reverse programming.  —Password：OpenTools — 
 ## Github production Notes:
 ```
 All files are uploaded through clean virtual machine packaging and
