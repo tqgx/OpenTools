@@ -12,6 +12,11 @@ to create files that don't enter the registry at all
 ———In addition, all the techniques learned will be used to create software files  
 The.7z format uses： (9 compression levels) compression method (LZMA2) Solid block size (Solid), 
 so you can ensure that my files are fast and convenient
+
+Year description of copyright notice:
+There are some people who think it's cool, so it's wrong to arbitrarily tag Copyright 2099 Lily Jones. 
+Such a copyright year is based on. The right to copyright is no longer retained after the person's death exceeds 70 years
+can also know when the work was last update (https://en.wikipedia.org/wiki/List_of_countries%27_copyright_lengths)
 ```
 
 
