@@ -1,7 +1,7 @@
 # Reserve all software and code on this page for development, learning, academic use, reverse programming.  —Password：OpenTools — 
 ## Github production Notes:
 ```
-—All files are uploaded through clean virtual machine packaging and
+—All files are uploaded through clean virtual machine packaging
 encrypted through 7.zip to avoid server infection
 
 ——Portable / How to make：
