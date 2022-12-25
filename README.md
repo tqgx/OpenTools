@@ -5,9 +5,9 @@
 encrypted through 7.zip to avoid server infection
 
 ——Portable / How to make：
-Any file I have on Github.   If the file suffix does not indicate —Thinapp.   
-All are installed versions of software, and Fake-portable, using —thinapp 
-to create files that don't enter the registry at all  
+Any file I have on Github.  If the file suffix does not indicate —Thinapp.   
+All are installed versions of software, and Fake-portable
+using —thinapp to create files that don't enter the registry at all  
 
 ———In addition, all the techniques learned will be used to create software files  
 The.7z format uses： (9 compression levels) compression method (LZMA2) Solid block size (Solid), 
