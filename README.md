@@ -1,4 +1,5 @@
-# Declaration： (Password：OpenTools) # [Check-SHA-256](https://github.com/LilyJone/OpenTools/blob/main/SHA-256_ME) [CheckHsahSoftware:(HashMyFiles)](https://github.com/LilyJone/OpenTools/tree/main/OpenTools)  
+# Declaration： (Password：OpenTools) 
+[Check-SHA-256](https://github.com/LilyJone/OpenTools/blob/main/SHA-256_ME) [CheckHsahSoftware:(HashMyFiles)](https://github.com/LilyJone/OpenTools/tree/main/OpenTools)  
 Reserve all attachments on Github. For academic purposes, learning, development, reverse programming use.(Attached, included license and keygen, serial number. As described above.) All attachments, through a clean virtual machine, are encrypted with.7z files and checked by SHA256 (to avoid server infection of files).  
 
 # 
