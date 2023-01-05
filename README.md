@@ -8,7 +8,7 @@ I don't use.portableApps, which works by turning on the software to generate the
 
 Anything else that is not marked is an installed version, or simply an unzipped version. It creates registries and weird folders.
 
-### How to make a 7z pack：
+## How to make a 7z pack：
 7z format uses：(9 compression levels) compression method (LZMA2) Solid block size (Solid), 
 
 _________
