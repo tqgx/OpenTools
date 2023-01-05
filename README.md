@@ -1,10 +1,13 @@
 # Reserve all attachments on Github. For academic purposes, learning, development, reverse programming use.(Attached, included license and keygen, serial number. As described above.) All attachments, through a clean virtual machine, are encrypted with.7z files and checked by SHA256 (to avoid server infection of files).  [Check-SHA-256](https://github.com/LilyJone/OpenTools/blob/main/SHA-256_ME) [CheckHsahSoftware:(HashMyFiles)](https://github.com/LilyJone/OpenTools/tree/main/OpenTools)
-## Password：OpenTools 
+
+Password：OpenTools
+
 ### Github production Notes: 
 
 
 
 
+———————————————————————————————————————————————————————————————————————————————————————————————————
 # License：
 http://www.apache.org/licenses/LICENSE-2.0
 
@@ -23,7 +26,7 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License. 
 ```
-
+—————————————————————————————————————————————————————————————————————————————————————————————
 # MIT License：
 https://github.com/LilyJone/OpenTools/blob/main/LICENSE
 
@@ -48,7 +51,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
-
+———————————————————————————————————————————————————————————————————————————————————————————————
 # Disclaimer 
 The developer of this application does not have any affiliation with the content providers available.
 
