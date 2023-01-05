@@ -7,7 +7,7 @@ All files identified as "Portable—TurboStudio and "Portable—Thinapp" are Por
 
 Anything else that is not marked is an installed version, or simply an unzipped version. It creates registries and weird folders.
 
-## How to make a 7z pack：
+## .7z Pack / How to Make
 7z format uses：(9 compression levels) compression method (LZMA2) Solid block size (Solid), 
 
 _________
