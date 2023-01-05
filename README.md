@@ -2,13 +2,14 @@
 Reserve all attachments on Github. For academic purposes, learning, development, reverse programming use.(Attached, included license and keygen, serial number. As described above.) All attachments, through a clean virtual machine, are encrypted with.7z files and checked by SHA256 (to avoid server infection of files).   [Check-SHA-256](https://github.com/LilyJone/OpenTools/blob/main/SHA-256_ME) [CheckHsahSoftware:(HashMyFiles)](https://github.com/LilyJone/OpenTools/tree/main/OpenTools)  
 
 
-### Production instructions：
+## REAL Portable / How to make
+All files identified as "_thinapp and "_TurboStudio" are Portable by true virtualization. No registry will be generated.
+I don't use.portableApps, which works by turning on the software to generate the registry and turning off the software to clear the registry. This is not Portable
 
+Anything else that is not marked is an installed version, or simply an unzipped version. It creates registries and weird folders.
 
-#### Real Portable
-
-
-
+# How to make a 7z pack
+The.7z format uses： (9 compression levels) compression method (LZMA2) Solid block size (Solid), 
 
 _________
 # License：
