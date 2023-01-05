@@ -3,8 +3,7 @@ Reserve all attachments on Github. For academic purposes, learning, development,
 
 
 ## REAL Portable / How to make：
-All files identified as "_thinapp and "_TurboStudio" are Portable by true virtualization. No registry will be generated.
-I don't use.portableApps, which works by turning on the software to generate the registry and turning off the software to clear the registry. This is not Portable
+All files identified as "Portable—TurboStudio and "Portable—Thinapp" are Portable by true virtualization.  Also represents the tools used to make virtualization Portable  No registry will be generated.  I don't use.Paf portableApps, which works by turning on the software to generate the registry and turning off the software to clear the registry.  This is not Portable
 
 Anything else that is not marked is an installed version, or simply an unzipped version. It creates registries and weird folders.
 
