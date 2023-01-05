@@ -8,7 +8,7 @@ Reserve all attachments on Github. For academic purposes, learning, development,
 
 
 
-———————————————————————————————————————————————————————————————————————————————————————————————————
+_________
 # License：
 http://www.apache.org/licenses/LICENSE-2.0
 
@@ -27,7 +27,7 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License. 
 ```
-—————————————————————————————————————————————————————————————————————————————————————————————
+_________
 # MIT License：
 https://github.com/LilyJone/OpenTools/blob/main/LICENSE
 
@@ -52,7 +52,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
-———————————————————————————————————————————————————————————————————————————————————————————————
+_________
 # Disclaimer 
 The developer of this application does not have any affiliation with the content providers available.
 
