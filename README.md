@@ -1,23 +1,8 @@
-# Reserve all software and code on this page for development, learning, academic use, reverse programming.  —Password：OpenTools — 
-## Github production Notes: [Check-SHA-256](https://github.com/LilyJone/OpenTools/blob/main/SHA-256_ME) CheckHash Software [HashMyFiles](https://github.com/LilyJone/OpenTools/tree/main/OpenTools)
-```
-—All files are uploaded through clean virtual machine packaging
-encrypted through 7.zip to avoid server infection
+# Reserve all attachments on Github. For academic purposes, learning, development, reverse programming use.(Attached, included license and keygen, serial number. As described above.) All attachments, through a clean virtual machine, are encrypted with.7z files and checked by SHA256 (to avoid server infection of files).  [Check-SHA-256](https://github.com/LilyJone/OpenTools/blob/main/SHA-256_ME) [CheckHsahSoftware:(HashMyFiles)](https://github.com/LilyJone/OpenTools/tree/main/OpenTools)
+## Password：OpenTools 
+### Github production Notes: 
 
-——Portable / How to make：
-Any file I have on Github.  If the file suffix does not indicate —Thinapp.   
-All are installed versions of software, and Fake-portable
-using —thinapp to create files that don't enter the registry at all  
 
-———In addition, all the techniques learned will be used to create software files  
-The.7z format uses： (9 compression levels) compression method (LZMA2) Solid block size (Solid), 
-so you can ensure that my files are fast and convenient
-
-Year description of copyright notice:
-There are some people who think it's cool, so it's wrong to arbitrarily tag Copyright 2099 Lily Jones. 
-Such a copyright year is based on. The right to copyright is no longer retained after the person's death exceeds 70 years
-can also know when the work was last update (https://en.wikipedia.org/wiki/List_of_countries%27_copyright_lengths)
-```
 
 
 # License：
