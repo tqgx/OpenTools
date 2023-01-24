@@ -1,4 +1,4 @@
-(Password：OpenTools)  [Check-SHA-256](https://github.com/LilyJone/OpenTools/blob/main/SHA-256_ME) [CheckHsahSoftware:(HashMyFiles)](https://github.com/LilyJone/OpenTools/tree/main/OpenTools)  Reserve all attachments on Github. For academic purposes, learning, development, reverse programming use.(Attached, included license and keygen, serial number. As described above.) All attachments, through a clean virtual machine, are encrypted with.7z files and checked by SHA256 (to avoid server infection of files).  
+(Password：OpenTools)  [Check-SHA-256](https://github.com/LilyJone/OpenTools/blob/main/SHA-256_ME) [CheckHsahSoftware:(HashMyFiles)](https://github.com/LilyJone/OpenTools/tree/main/OpenTools)  
 
 ## REAL Portable / How to make：
 All files identified as "Portable—TurboStudio and "Portable—Thinapp" are Portable by true virtualization.  Also represents the tools used to make virtualization Portable  No registry will be generated.  I don't use.Paf portableApps, which works by turning on the software to generate the registry and turning off the software to clear the registry.  This is not Portable Anything else that is not marked is an installed version, or simply an unzipped version. It creates registries and weird folders.
@@ -56,3 +56,4 @@ The developer of this application does not have any affiliation with the content
 # Conflict of Interest Statement
 The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
 
+Reserve all attachments on Github. For academic purposes, learning, development, reverse programming use.(Attached, included license and keygen, serial number. As described above.) All attachments, through a clean virtual machine, are encrypted with.7z files and checked by SHA256 (to avoid server infection of files).  
