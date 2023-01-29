@@ -11,7 +11,7 @@ _________
 http://www.apache.org/licenses/LICENSE-2.0
 
 ```
- Copyright 2022 Lily Jones
+ Copyright 2023 Lily Jones
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -29,7 +29,7 @@ limitations under the License.
 https://github.com/LilyJone/OpenTools/blob/main/LICENSE
 
 ```
- Copyright (c) 2022 Lily Jones
+ Copyright (c) 2023 Lily Jones
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
