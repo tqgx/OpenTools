@@ -4,9 +4,7 @@
 With the passage of time, I'm gradually losing myself. I don't have any friends I can trust. And I'm also getting confused about the Internet. I've got involved in modifying Android software. Maybe I'll share some software, but I won't compress the files directly or compare the SHA256 anymore, because I'm just so tired. The project @zDichX is my big brother If I don't update, or disappear from the Internet, you can ask him. https://zdichx.github.io/
 
 随着时间的推移，我彻底逐渐失去自我，我没有任何可以信任的朋友。而且我也开始对网路社会感到困惑，我最近开始修改安卓软件
-但退坑不远了也许我会分享一些软件，但我不会再直接压缩文件或比较SHA256了，因为我太累了。@zDichX 是我的大哥。如果我不更新，或者从网上消失，你可以询问他。
-
-https://zdichx.github.io/
+但退坑不远了也许我会分享一些软件，但我不会再直接压缩文件或比较SHA256了，因为我太累了。@zDichX 是我的大哥。如果我不更新，或从网上消失，你可以询问他。 https://zdichx.github.io/
 
 _________
 # License：
